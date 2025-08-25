@@ -1,0 +1,10 @@
+streamlit==1.37.1
+pillow
+python-dotenv
+transformers>=4.41.0
+accelerate
+safetensors
+torch --index-url https://download.pytorch.org/whl/cpu
+langchain>=0.2.6
+langchain-groq>=0.1.4
+gTTS
